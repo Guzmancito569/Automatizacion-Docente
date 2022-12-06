@@ -1,0 +1,15 @@
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/bin/Debug/net6.0/exampleAcumulador
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/bin/Debug/net6.0/exampleAcumulador.deps.json
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/bin/Debug/net6.0/exampleAcumulador.runtimeconfig.json
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/bin/Debug/net6.0/exampleAcumulador.dll
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/bin/Debug/net6.0/exampleAcumulador.pdb
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/exampleAcumulador.csproj.AssemblyReference.cache
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/exampleAcumulador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/exampleAcumulador.AssemblyInfoInputs.cache
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/exampleAcumulador.AssemblyInfo.cs
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/exampleAcumulador.csproj.CoreCompileInputs.cache
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/exampleAcumulador.dll
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/refint/exampleAcumulador.dll
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/exampleAcumulador.pdb
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/exampleAcumulador.genruntimeconfig.cache
+/Users/user-f/Projects/exampleAcumulador/exampleAcumulador/obj/Debug/net6.0/ref/exampleAcumulador.dll
